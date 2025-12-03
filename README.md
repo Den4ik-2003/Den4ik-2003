@@ -1,5 +1,6 @@
 ## Hi, I'm Denys 👋
-💻 Front-end developer from Ukraine  
-🎨 I create modern and user-friendly web interfaces  
-⚡ Focused on clean UI/UX and high-quality code  
-🚀 Always learning new technologies to level up  
+💻 Front-end developer from Ukraine  <br/>
+🎨 I create modern and user-friendly web interfaces <br/> 
+⚡ Focused on clean UI/UX and high-quality code  <br/>
+🚀 Always learning new technologies to level up  <br/>
+📬 Contact me on Telegram: https://t.me/den4ik_2003
